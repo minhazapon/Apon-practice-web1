@@ -1,0 +1,329 @@
+
+
+nav{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    margin: 0 100px;
+
+
+
+
+}
+
+
+Nav > ul{
+
+   display: flex;
+   align-items: center;
+   gap: 50px;
+
+}
+
+nav > li{
+
+  list-style: none;
+  margin-right: 50px;
+
+
+}
+
+
+nav a {
+    text-decoration: none;
+
+   
+}
+
+.but{
+
+     border-radius: 10px;
+     background-color:   lawngreen ;
+     font-size: large;
+     
+
+
+}
+
+.b{
+    font-size: 20px;
+
+
+
+}
+
+.name{
+      font-size: 40px;
+
+
+}
+
+.span{
+      color: rgb(248, 0, 207);
+
+
+}
+
+.span2{
+        color: lawngreen;
+
+
+}
+
+
+.treecover{
+            
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+      
+    color: skyblue;
+
+}
+
+.ac{
+    font-size: 50px;
+
+
+}
+
+.bc{
+     font-size: 30px;
+     background-color: skyblue;
+
+
+}
+
+.treecover{
+
+            height: 700px;
+            width: 1300px;
+            background-image: url(images/cover1.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            
+           
+            
+
+
+}
+
+
+.new{
+
+    font-size: 50px;
+    text-align: center;
+
+
+}
+
+.product{
+      text-align: center;
+      display: flex;
+      gap: 50px;
+      justify-content: center;
+      align-items: center;
+
+}
+
+.bg1{
+      background-color: rgb(111, 255, 111);
+
+
+}
+
+.bg2{
+
+
+    background-color: rgb(111, 255, 111);
+}
+
+
+.bg3{
+
+
+
+    background-color: rgb(111, 255, 111);
+}
+
+
+.product2{
+
+    text-align: center;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+
+.bg4{
+    background-color: rgb(111, 255, 111);
+
+
+}
+
+.bg5{
+
+
+  background-color: rgb(111, 255, 111);
+}
+
+
+.bg6{
+
+
+
+  background-color: rgb(111, 255, 111);
+}
+
+
+.gift{ 
+
+       height: 200px;
+       width: 600px;
+       background-image: url(images/tree12.jpg);
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       margin-left: 350px;
+
+
+}
+
+.gt{
+    color: aqua;
+    font-size: 40px;
+
+
+}
+
+.but2{
+      background-color: aqua;
+
+
+}
+
+.pt{
+
+    text-align: center;
+    font-size: 40px;
+
+ 
+
+}
+
+
+.popular{
+
+    text-align: center;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.bg7{
+      background-color: skyblue;
+
+
+}
+
+
+.bg8{
+    background-color: skyblue;
+
+
+}
+
+
+.bg9{
+    background-color: skyblue;
+
+
+}
+
+.join{
+
+       display: flex;
+       gap: 50px;
+       justify-content: center;
+       align-items: center;
+
+
+
+}
+
+.j{
+    color: blueviolet;
+    font-size: 40px;
+
+
+}
+
+
+.email{
+         height: 20px;
+         width: 300px;
+         border-radius: 40px;
+         border: none;
+   
+
+
+}
+
+.btn{
+    background-color: aqua;  border-radius:30px ;
+    border: none;
+    font-size: 20px;
+
+
+
+
+}
+
+
+.p{
+      color: darkturquoise;
+
+
+}
+
+.social{
+          display: flex;
+          gap: 50px;
+
+
+}
+
+.foot{
+       display: flex;
+       gap: 200px;
+       justify-content: center;
+       align-items: center;
+
+
+}
+
+.foot{
+      background-color: skyblue;
+
+
+}
+
+
